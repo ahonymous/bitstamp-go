@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/bitstonks/bitstamp-go/pkg/http"
+	"github.com/ahonymous/bitstamp-go/pkg/http"
 	"log"
 )
 

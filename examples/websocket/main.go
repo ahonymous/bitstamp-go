@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/bitstonks/bitstamp-go/pkg/websocket"
+	"github.com/ahonymous/bitstamp-go/pkg/websocket"
 	"log"
 	"time"
 )

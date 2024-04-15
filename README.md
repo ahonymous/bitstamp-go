@@ -1,3 +1,5 @@
+# Forked from bitstonks/bitstamp-go
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/bitstonks/bitstamp-go)](https://goreportcard.com/report/github.com/bitstonks/bitstamp-go)
 
 # bitstamp-go
